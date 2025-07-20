@@ -2,8 +2,7 @@
 This repository provides a RESTful API for registration and login built with Spring Boot. The API supports two roles: ROLE_USER and ROLE_ADMIN, with specific endpoints for user profile management and admin functionalities.
 # 🛡️ Spring Security Architecture
 
-
-<img width="4453" height="2460" alt="spring security architecture" src="https://github.com/user-attachments/assets/adacbf22-348b-4b17-9514-3e01a93eacea" />
+<img width="4575" height="2515" alt="SpringSecurityArchitecture" src="https://github.com/user-attachments/assets/098a766d-10d1-4891-8762-d438418825ee" />
 
 
 **Base URL**
